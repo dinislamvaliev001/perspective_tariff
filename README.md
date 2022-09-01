@@ -1,4 +1,4 @@
-# Determination_of_a_prospective_tariff_for_a_telecom-company
+# determination_of_a_prospective_tariff_for_a_telecom-company
 Определение перспективного тарифа для телеком-компании
 
 Описание проекта
