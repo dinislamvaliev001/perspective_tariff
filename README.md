@@ -1,4 +1,4 @@
-# determination_of_a_prospective_tariff_for_a_telecom-company
+# perspective_tariff
 
 _Определение перспективного тарифа для телеком-компании_
 
